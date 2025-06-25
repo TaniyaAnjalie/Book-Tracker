@@ -98,6 +98,7 @@ book-tracker/
 ---
 
 ## 📜 License
+Copyright (c) 2025 Taniya Jeewandara  
 
 This project is open-source and intended for learning and academic purposes.
 For contributions or collaborations, feel free to connect via GitHub.
