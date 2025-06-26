@@ -1,7 +1,9 @@
 # 📚 Book Tracker App
 
 A simple full-stack CRUD application built with **Next.js App Router**, **MongoDB (local)**, and **Mongoose**.  
-Easily track your books, mark them as read or unread, and manage your collection.
+Easily track your books, mark them as read or unread, and manage your collection.  
+
+🌐 **Live Demo:** [Book-Tracker](https://book-tracker-red.vercel.app/)
 
 ---
 
@@ -58,6 +60,12 @@ npm run dev
 
 Open your browser and go to:
 👉 [http://localhost:3000](http://localhost:3000)
+
+---
+
+🌍 Live Demo
+Check out the live version of the app here:
+[Book-Tracker](https://book-tracker-red.vercel.app/)
 
 ---
 
